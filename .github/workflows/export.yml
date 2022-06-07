@@ -19,7 +19,7 @@ jobs:
         run: mkdir artifacts/
         
       - name: Run inkscape export
-        run: inkscape --export-png artifacts/ClassificaExport.png -w 1000 -h 1000 Susge.svg
+        run: inkscape -C --export-png artifacts/ClassificaExport.png -w 1000 -h 1000 Susge.svg
 
       - uses: actions/upload-artifact@v3
         with:
