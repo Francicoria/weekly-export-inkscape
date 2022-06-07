@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="2730.1045"
+   height="2729.282"
+   viewBox="0 0 722.33984 722.12254"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="px"
      showgrid="false"
-     showborder="false"
+     showborder="true"
      inkscape:zoom="0.16658951"
-     inkscape:cx="1278.5919"
-     inkscape:cy="429.1987"
+     inkscape:cx="840.38907"
+     inkscape:cy="1011.4683"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -44,44 +44,65 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     units="px"
+     width="795.70081px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="361.16999,361.06122"
+       orientation="1,0"
+       id="guide94094" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
        x="-407.48215"
-       y="-207.98568"
+       y="-207.98569"
        width="1013.1057"
        height="1901.5833"
        id="rect8206" />
     <rect
        x="-407.48215"
-       y="-207.98568"
-       width="929.56863"
+       y="-207.98569"
+       width="929.5686"
        height="1876.1157"
        id="rect18938" />
   </defs>
   <g
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(256.17001,216.74902)">
     <rect
        style="fill:#ffffff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect846"
-       width="752.68665"
+       width="722.34003"
        height="722.12238"
-       x="-271.34332"
+       x="-256.17001"
        y="-216.74902"
-       ry="49.414288" />
+       ry="49.414288"
+       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
+       inkscape:export-xdpi="35.178249"
+       inkscape:export-ydpi="35.178249" />
     <path
        id="path881"
-       style="opacity:0.622755;fill:#ff0000;stroke:none;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -223.06619,-216.74904 c -26.74561,0 -48.27704,22.03904 -48.27704,49.41455 v 69.628827 h 752.68646 v -69.628827 c 0,-27.37551 -21.53192,-49.41455 -48.27755,-49.41455 z" />
+       style="opacity:0.622755;fill:#ff0000;stroke:none;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -209.8389,-216.74904 c -25.66729,0 -46.33047,22.03904 -46.33047,49.41455 v 69.628827 h 722.33874 v -69.628827 c 0,-27.37551 -20.66361,-49.41455 -46.33098,-49.41455 z"
+       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
+       inkscape:export-xdpi="35.178249"
+       inkscape:export-ydpi="35.178249" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.3646px;line-height:1.25;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';stroke-width:0.264584"
        x="105.26225"
        y="-139.99942"
-       id="text1974"><tspan
+       id="text1974"
+       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
+       inkscape:export-xdpi="35.178249"
+       inkscape:export-ydpi="35.178249"><tspan
          sodipodi:role="line"
          id="tspan1972"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.3646px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264584"
@@ -89,7 +110,10 @@
          y="-139.99942">Classifica settimanale Pog.exe</tspan></text>
     <g
        id="g50995"
-       transform="translate(-243.57232,-12.353571)">
+       transform="translate(-243.57232,-12.353571)"
+       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
+       inkscape:export-xdpi="35.178249"
+       inkscape:export-ydpi="35.178249">
       <g
          id="g77046"
          transform="translate(-11.861235,24.707143)">
@@ -100,33 +124,33 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:2.45;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';white-space:pre;shape-inside:url(#rect8206)"><tspan
              x="-407.48242"
              y="19.695954"
-             id="tspan94056"><tspan
+             id="tspan94121"><tspan
                style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan94054">1. Fede
+               id="tspan94119">1. Fede
 </tspan></tspan><tspan
              x="-407.48242"
              y="387.64401"
-             id="tspan94060"><tspan
+             id="tspan94125"><tspan
                style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan94058">2. Cicoria
+               id="tspan94123">2. Cicoria
 </tspan></tspan><tspan
              x="-407.48242"
              y="755.59207"
-             id="tspan94064"><tspan
+             id="tspan94129"><tspan
                style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan94062">3. Kevin
+               id="tspan94127">3. Kevin
 </tspan></tspan><tspan
              x="-407.48242"
              y="1123.5401"
-             id="tspan94068"><tspan
+             id="tspan94133"><tspan
                style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan94066">4. ///
+               id="tspan94131">4. ///
 </tspan></tspan><tspan
              x="-407.48242"
              y="1491.4882"
-             id="tspan94072"><tspan
+             id="tspan94137"><tspan
                style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan94070">5. ///</tspan></tspan></text>
+               id="tspan94135">5. ///</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,483.27082,-5.8550938)"
@@ -136,33 +160,33 @@
            y="0"><tspan
              x="-370.15039"
              y="19.695954"
-             id="tspan94076"><tspan
+             id="tspan94141"><tspan
                style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan94074">105,167 sec
+               id="tspan94139">105,167 sec
 </tspan></tspan><tspan
              x="-370.15039"
              y="387.64401"
-             id="tspan94080"><tspan
+             id="tspan94145"><tspan
                style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan94078">108,347 sec
+               id="tspan94143">108,347 sec
 </tspan></tspan><tspan
              x="-370.15039"
              y="755.59207"
-             id="tspan94084"><tspan
+             id="tspan94149"><tspan
                style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan94082">156,000 sec
+               id="tspan94147">156,000 sec
 </tspan></tspan><tspan
              x="29.532227"
              y="1123.5401"
-             id="tspan94088"><tspan
+             id="tspan94153"><tspan
                style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan94086">/// sec
+               id="tspan94151">/// sec
 </tspan></tspan><tspan
              x="29.532227"
              y="1491.4882"
-             id="tspan94092"><tspan
+             id="tspan94157"><tspan
                style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan94090">/// sec</tspan></tspan></text>
+               id="tspan94155">/// sec</tspan></tspan></text>
       </g>
     </g>
     <text
@@ -170,11 +194,14 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;line-height:1.25;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';letter-spacing:2.11667px;fill:#545454;fill-opacity:1;stroke-width:0.264584"
        x="106.17138"
        y="464.90509"
-       id="text77050"><tspan
+       id="text77050"
+       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
+       inkscape:export-xdpi="35.178249"
+       inkscape:export-ydpi="35.178249"><tspan
          sodipodi:role="line"
          id="tspan77048"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
-         x="106.17138"
+         x="106.17139"
          y="464.90509"
          dx="0">Per eventuali lamentele contattare l'assistenza clienti:</tspan><tspan
          sodipodi:role="line"
