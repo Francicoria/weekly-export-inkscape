@@ -15,5 +15,13 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install inkscape
         
+      - name: Creates artifact dir
+        run: mkdir artifacts/
+        
       - name: Run inkscape export
-        run: inkscape --export-png ClassificaExport.png -w 1000 -h 1000 Susge.svg
+        run: inkscape --export-png artifacts/ClassificaExport.png -w 1000 -h 1000 Susge.svg
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: Export
+          path: artifacts/ClassificaExport.png
