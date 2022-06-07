@@ -16,4 +16,4 @@ jobs:
         run: sudo apt-get update && sudo apt-get install inkscape
         
       - name: Run inkscape export
-        run: inkscape --export-type=png ClassificaExport.png -w 1000 -h 1000 Susge.svg
+        run: inkscape --export-png ClassificaExport.png -w 1000 -h 1000 Susge.svg
