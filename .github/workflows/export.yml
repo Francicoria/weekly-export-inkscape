@@ -20,7 +20,8 @@ jobs:
         
       - name: Run inkscape export
         run: |
-         fc-cache -fv ./fonts
+         mkdir -p ~/.local/share/fonts && cp -r fonts/* ~/.local/share/fonts/
+         fc-cache -rv
          inkscape -C --export-png artifacts/ClassificaExport.png -w 1000 -h 1000 Susge.svg
 
       - uses: actions/upload-artifact@v3
