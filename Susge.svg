@@ -25,16 +25,16 @@
      showgrid="false"
      showborder="true"
      inkscape:zoom="0.16658951"
-     inkscape:cx="1362.6308"
-     inkscape:cy="1479.685"
+     inkscape:cx="1494.692"
+     inkscape:cy="1287.5961"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g77046"
+     inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="false"
@@ -96,7 +96,7 @@
        inkscape:export-ydpi="35.178249" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.3646px;line-height:1.25;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';stroke-width:0.264584"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.3646px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.264584"
        x="105.26225"
        y="-139.99942"
        id="text1974"
@@ -105,93 +105,72 @@
        inkscape:export-ydpi="35.178249"><tspan
          sodipodi:role="line"
          id="tspan1972"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.3646px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264584"
-         x="105.26225"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.3646px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="105.26224"
          y="-139.99942">Classifica settimanale Pog.exe</tspan></text>
-    <g
-       id="g50995"
-       transform="translate(-243.57232,-12.353571)"
-       inkscape:export-filename="C:\Users\Natalino\Desktop\07.06Export.png"
-       inkscape:export-xdpi="35.178249"
-       inkscape:export-ydpi="35.178249">
-      <g
-         id="g77046"
-         transform="translate(-11.861235,24.707143)">
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,203.63092,-2.6886223)"
-           id="text8204"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:2.45;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';white-space:pre;shape-inside:url(#rect8206)"><tspan
-             x="-407.48242"
-             y="19.695954"
-             id="tspan104157"><tspan
-               style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan104155">1. Fede
-</tspan></tspan><tspan
-             x="-407.48242"
-             y="387.64401"
-             id="tspan104161"><tspan
-               style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan104159">2. Cicoria
-</tspan></tspan><tspan
-             x="-407.48242"
-             y="755.59207"
-             id="tspan104165"><tspan
-               style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan104163">3. Kevin
-</tspan></tspan><tspan
-             x="-407.48242"
-             y="1123.5401"
-             id="tspan104169"><tspan
-               style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan104167">4. Pietro
-</tspan></tspan><tspan
-             x="-407.48242"
-             y="1491.4882"
-             id="tspan104173"><tspan
-               style="font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
-               id="tspan104171">5. ///</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,483.27082,-5.8550938)"
-           id="text18936"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:2.45;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';white-space:pre;shape-inside:url(#rect18938)"
-           x="877.44141"
-           y="0"><tspan
-             x="-370.15039"
-             y="19.695954"
-             id="tspan104177"><tspan
-               style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan104175">105,167 sec
-</tspan></tspan><tspan
-             x="-370.15039"
-             y="387.64401"
-             id="tspan104181"><tspan
-               style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan104179">108,347 sec
-</tspan></tspan><tspan
-             x="-370.15039"
-             y="755.59207"
-             id="tspan104185"><tspan
-               style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan104183">115,449 sec
-</tspan></tspan><tspan
-             x="-370.15039"
-             y="1123.5401"
-             id="tspan104189"><tspan
-               style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan104187">116,744 sec
-</tspan></tspan><tspan
-             x="29.532227"
-             y="1491.4882"
-             id="tspan104193"><tspan
-               style="font-style:italic;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Italic';text-align:end;text-anchor:end"
-               id="tspan104191">/// sec</tspan></tspan></text>
-      </g>
-    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;line-height:1.25;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';letter-spacing:2.11667px;fill:#545454;fill-opacity:1;stroke-width:0.264584"
+       transform="matrix(0.26458333,0,0,0.26458333,-51.80264,9.66495)"
+       id="text8204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:2.45;font-family:Inter;-inkscape-font-specification:Inter;white-space:pre;shape-inside:url(#rect8206)"><tspan
+         x="-407.48242"
+         y="20.834098"
+         id="tspan2169">1. Fede
+</tspan><tspan
+         x="-407.48242"
+         y="388.3341"
+         id="tspan2171">2. Cicoria
+</tspan><tspan
+         x="-407.48242"
+         y="755.8341"
+         id="tspan2173">3. Kevin
+</tspan><tspan
+         x="-407.48242"
+         y="1123.3341"
+         id="tspan2175">4. Pietro
+</tspan><tspan
+         x="-407.48242"
+         y="1490.8341"
+         id="tspan2177">5. ///</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,227.83726,6.498478)"
+       id="text18936"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:2.45;font-family:Inter;-inkscape-font-specification:Inter;white-space:pre;shape-inside:url(#rect18938)"
+       x="877.44141"
+       y="0"><tspan
+         x="-298.01141"
+         y="20.834098"
+         id="tspan2181"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan2179">105,167 sec
+</tspan></tspan><tspan
+         x="-337.42887"
+         y="388.3341"
+         id="tspan2185"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan2183">108,347 sec
+</tspan></tspan><tspan
+         x="-324.21896"
+         y="755.8341"
+         id="tspan2189"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan2187">115,449 sec
+</tspan></tspan><tspan
+         x="-306.74697"
+         y="1123.3341"
+         id="tspan2193"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan2191">116,744 sec
+</tspan></tspan><tspan
+         x="69.956478"
+         y="1490.8341"
+         id="tspan2197"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan2195">/// sec</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:2.24895788px;fill:#545454;fill-opacity:1;stroke-width:0.264584"
        x="106.17138"
        y="464.90509"
        id="text77050"
@@ -200,23 +179,23 @@
        inkscape:export-ydpi="35.178249"><tspan
          sodipodi:role="line"
          id="tspan77048"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
          x="106.17139"
          y="464.90509"
          dx="0">Per eventuali lamentele contattare l'assistenza clienti:</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
          x="106.17139"
          y="481.48111"
          id="tspan77074">@distributoredipennarelli su <tspan
-   style="fill:#9146ff;fill-opacity:1"
+   style="fill:#9146ff;fill-opacity:1;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
    id="tspan88274">Twitch</tspan></tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;fill:#545454;fill-opacity:1;stroke-width:0.264584"
          x="107.22971"
          y="498.05713"
          id="tspan77186">Distributoredipennarelli#2888 su <tspan
-   style="fill:#5865f2;fill-opacity:1"
+   style="fill:#5865f2;fill-opacity:1;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
    id="tspan89566">Discord</tspan></tspan></text>
   </g>
 </svg>
